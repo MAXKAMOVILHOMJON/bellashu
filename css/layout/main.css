@@ -1,0 +1,46 @@
+
+
+.Hqme{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    position: relative;
+    }
+    .Home_Work{
+        font-family: Graphik;
+        font-weight: 500;
+       font-size: 80px;
+       line-height: 88px;
+      letter-spacing: 0.2px;
+      text-align: center;
+      color: #FFFFFF;
+ 
+    }
+    .Home_Most{
+        font-family: Graphik;
+       font-weight: 400;
+      font-size: 20px;
+       line-height: 30px;
+      letter-spacing: 0.2px;
+      text-align: center;
+       color: #FFFFFF;
+       margin-top: 20px;
+    }
+    .Home_btn{
+       display: flex;
+       gap: 30px;
+       justify-content: center;
+       margin-top: 30px;  
+    }
+
+    .Home_img{
+         display: block;
+        max-width: 1552px;
+        width:100%;
+        opacity: 1;
+        top: 682px;
+       left: 13.49px;
+         margin-top: 30px;
+    }
+   
+
