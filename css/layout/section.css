@@ -1,0 +1,21 @@
+.About{
+    color: #FFFFFF;
+    text-align: center;
+    padding: 20px 30px; 
+}
+.About h1 {
+    margin-bottom: 30px;
+}
+.About p {
+    margin-bottom: 30px;
+}
+.Contact{
+    display: flex;
+}
+.card{
+    width: 269px;
+  height: 196px;
+   display: grid;
+   grid-column: auto;
+
+}
